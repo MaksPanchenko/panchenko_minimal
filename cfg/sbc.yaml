@@ -1,0 +1,19 @@
+/**:
+  ros__parameters:
+    device: /dev/ttyUSB0
+    baudrate: 115200
+    standard_gravity: 9.80665
+    acc_1g: 512.0
+    gyro_unit: 0.244140625
+    magn_gain: 0.092
+    tf_base_frame: map
+    status_timeout: 2.0
+    MSP_RAW_IMU: 50.0
+    MSP_ATTITUDE: 50.0
+    MSP_ALTITUDE: 10.0
+    MSP_RC: 10.0
+    MSP_SERVO: 1.0
+    MSP_MOTOR: 10.0
+    MSP_ANALOG: 1.0
+    MSP_STATUS: 5.0
+    MSP_SONAR_ALTITUDE: 0.0
